@@ -11,4 +11,4 @@ If you would like to view thos challange click the link below.
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
 ## deployed  project
-(click to view)[https://blissful-goldstine-b0e19b.netlify.app/]
+[click to view](https://blissful-goldstine-b0e19b.netlify.app/)
